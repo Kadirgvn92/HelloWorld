@@ -10,6 +10,8 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
+            int a = 10;
+            char k ='a';
             Console.WriteLine("Hello C# World");
         }
     }
